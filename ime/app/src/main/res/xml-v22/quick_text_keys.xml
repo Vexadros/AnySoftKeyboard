@@ -153,4 +153,13 @@
         keyOutputText="@string/quick_text_kaomoji_key_output"
         description=""
         index="17"/>
+    <QuickTextKey
+        id="hki6zv1r-u2fy-0vbf-8rjt-0alzotr8m14v"
+        nameResId="@string/quick_text_kaomoji_test"
+        popupKeyboard="@xml/popup_kaomoji_test"
+        keyIcon="@drawable/ic_quick_text_dark_theme"
+        keyLabel="@string/quick_text_kaomoji_key_label"
+        keyOutputText="@string/quick_text_kaomoji_key_output"
+        description=""
+        index="18" />
 </QuickTextKeys>
