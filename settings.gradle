@@ -80,6 +80,7 @@ include ':addons:themes:three_d:pack', ':addons:themes:three_d:apk'
 //list of quick-text should be alphabetized-ordered
 include ':addons:quicktexts'
 include ':addons:quicktexts:bbcodes:pack', ':addons:quicktexts:bbcodes:apk'
+include ':addons:quicktexts:kaomojiex:pack', ':addons:quicktexts:kaomojiex:apk'
 
 include ':ime'
 include ':ime:base', ':ime:base-rx', ':ime:base-test', ':ime:prefs'

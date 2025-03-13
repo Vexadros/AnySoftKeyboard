@@ -18,6 +18,10 @@
         <ignore path="**/bbcodes/apk/build/generated/activity_res/values/description.xml"/>
     </issue>
 
+    <issue id="Typos" severity="error">
+        <ignore path="**/kaomojiex/apk/build/generated/activity_res/values/description.xml"/>
+    </issue>
+
     <issue id="ObsoleteSdkInt" severity="error" />
 
     <issue id="IgnoreWithoutReason" severity="error" />

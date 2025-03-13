@@ -1,0 +1,6 @@
+Install the latest AnySoftKeyboard.\n
+Select the new kaomoji sections in AnySoftKeyboard Settings -> Quick text keys.\n
+\n
+This pack will add an extended and categorized list of kaomoji, inspired by Gboard.\n
+\n
+Created by Vexadros
