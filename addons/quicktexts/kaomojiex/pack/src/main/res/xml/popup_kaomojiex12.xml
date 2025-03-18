@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Keyboard
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:ask="http://schemas.android.com/apk/res-auto"
+        android:keyWidth="15%p"
+        android:keyHeight="@integer/key_normal_height">
+    <Row android:rowEdgeFlags="top">
+        <!--Table Flip-->
+        <Key
+            android:keyLabel="(╯°□°)╯︵┻┻"
+            android:keyOutputText="(╯°□°)╯︵┻┻"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="(ノ｀Д´)ノ彡┻━┻"
+            android:keyOutputText="(ノ｀Д´)ノ彡┻━┻"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="(┛◉Д◉)┛彡┻━┻"
+            android:keyOutputText="(┛◉Д◉)┛彡┻━┻"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="(ﾉ≧∇≦)ﾉ ﾐ ┻━┻"
+            android:keyOutputText="(ﾉ≧∇≦)ﾉ ﾐ ┻━┻"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="(ノಠ益ಠ)ノ彡┻━┻"
+            android:keyOutputText="(ノಠ益ಠ)ノ彡┻━┻"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="(╯ರ ~ ರ)╯︵ ┻━┻"
+            android:keyOutputText="(╯ರ ~ ರ)╯︵ ┻━┻"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="(┛ಸ_ಸ)┛彡┻━┻"
+            android:keyOutputText="(┛ಸ_ಸ)┛彡┻━┻"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="(ﾉ´･ω･)ﾉ ﾐ ┻━┻"
+            android:keyOutputText="(ﾉ´･ω･)ﾉ ﾐ ┻━┻"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="(ノಥ,_｣ಥ)ノ彡┻━┻"
+            android:keyOutputText="(ノಥ,_｣ಥ)ノ彡┻━┻"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="(┛✧Д✧))┛彡┻━┻"
+            android:keyOutputText="(┛✧Д✧))┛彡┻━┻"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="┻┻︵¯\(ツ)/¯︵┻┻"
+            android:keyOutputText="┻┻︵¯\(ツ)/¯︵┻┻"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="┻┻︵ヽ(`Д´)ﾉ︵┻┻"
+            android:keyOutputText="┻┻︵ヽ(`Д´)ﾉ︵┻┻"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="(/¯◡ ‿ ◡)/¯ ~ ┻━┻"
+            android:keyOutputText="(/¯◡ ‿ ◡)/¯ ~ ┻━┻"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="(ノ｀⌒´)ノ┫：・┻┻"
+            android:keyOutputText="(ノ｀⌒´)ノ┫：・┻┻"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="(ﾉ°_o)ﾉ⌒┫ ┻ ┣ ┳"
+            android:keyOutputText="(ﾉ°_o)ﾉ⌒┫ ┻ ┣ ┳"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="┻━┻ミ＼(≧ﾛ≦＼)"
+            android:keyOutputText="┻━┻ミ＼(≧ﾛ≦＼)"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="┻━┻︵└(՞▽՞ └)"
+            android:keyOutputText="┻━┻︵└(՞▽՞ └)"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="┻━┻︵└(´_｀└)"
+            android:keyOutputText="┻━┻︵└(´_｀└)"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="┻━┻ ヘ╰( •̀ε•́ ╰)"
+            android:keyOutputText="┻━┻ ヘ╰( •̀ε•́ ╰)"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="(╯‵□′)╯︵┻━┻"
+            android:keyOutputText="(╯‵□′)╯︵┻━┻"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="(ノ•̀ o •́ )ノ ~ ┻━┻"
+            android:keyOutputText="(ノ•̀ o •́ )ノ ~ ┻━┻"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="(-_- )ﾉ⌒┫ ┻ ┣ ┳"
+            android:keyOutputText="(-_- )ﾉ⌒┫ ┻ ┣ ┳"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="(ノ￣皿￣)ノ ⌒== ┫"
+            android:keyOutputText="(ノ￣皿￣)ノ ⌒== ┫"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="(┛❍ᴥ❍)┛彡┻━┻"
+            android:keyOutputText="(┛❍ᴥ❍)┛彡┻━┻"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="(ノT＿T)ノ ＾┻━┻"
+            android:keyOutputText="(ノT＿T)ノ ＾┻━┻"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="ʕノ•ᴥ•ʔノ ︵ ┻━┻"
+            android:keyOutputText="ʕノ•ᴥ•ʔノ ︵ ┻━┻"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="┬─┬ノ( ͡° ͜ʖ ͡°ノ)"
+            android:keyOutputText="┬─┬ノ( ͡° ͜ʖ ͡°ノ)"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="┬─┬ノ(ಠ_ಠノ)"
+            android:keyOutputText="┬─┬ノ(ಠ_ಠノ)"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="┬─┬ノ( º _ ºノ)"
+            android:keyOutputText="┬─┬ノ( º _ ºノ)"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="┬──┬◡ﾉ(° -°ﾉ)"
+            android:keyOutputText="┬──┬◡ﾉ(° -°ﾉ)"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="(ヘ･_･)ヘ┳━┳"
+            android:keyOutputText="(ヘ･_･)ヘ┳━┳"
+            ask:tags="table,flip,ktable,kflip"/>
+        <Key
+            android:keyLabel="┬──┬ ¯\_(ツ)"
+            android:keyOutputText="┬──┬ ¯\_(ツ)"
+            ask:tags="table,flip,ktable,kflip"/>
+    </Row>
+</Keyboard>

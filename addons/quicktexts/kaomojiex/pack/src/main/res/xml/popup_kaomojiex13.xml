@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Keyboard
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:ask="http://schemas.android.com/apk/res-auto"
+        android:keyWidth="15%p"
+        android:keyHeight="@integer/key_normal_height">
+    <Row android:rowEdgeFlags="top">
+        <!--Animals-->
+        <Key
+            android:keyLabel="ᓚᘏᗢ"
+            android:keyOutputText="ᓚᘏᗢ"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="V●ᴥ●V"
+            android:keyOutputText="V●ᴥ●V"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="▼・ᴥ・▼"
+            android:keyOutputText="▼・ᴥ・▼"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="U ´꓃ ` U"
+            android:keyOutputText="U ´꓃ ` U"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="(◠ᴥ◕ʋ)"
+            android:keyOutputText="(◠ᴥ◕ʋ)"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="ฅʕ•̫͡•ʔฅ"
+            android:keyOutputText="ฅʕ•̫͡•ʔฅ"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="( ͡°ᴥ ͡° ʋ)"
+            android:keyOutputText="( ͡°ᴥ ͡° ʋ)"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="◖⚆ᴥ⚆◗"
+            android:keyOutputText="◖⚆ᴥ⚆◗"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="/ᐠ｡ꞈ｡ᐟ\"
+            android:keyOutputText="/ᐠ｡ꞈ｡ᐟ\"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="ฅ^•ﻌ•^ฅ"
+            android:keyOutputText="ฅ^•ﻌ•^ฅ"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="(=^･ｪ･^=)"
+            android:keyOutputText="(=^･ｪ･^=)"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="(=｀ェ´=)"
+            android:keyOutputText="(=｀ェ´=)"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="(￣(ｴ)￣)ﾉ"
+            android:keyOutputText="(￣(ｴ)￣)ﾉ"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="(*￣(ｴ)￣*)"
+            android:keyOutputText="(*￣(ｴ)￣*)"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="(≧(ｴ)≦ )"
+            android:keyOutputText="(≧(ｴ)≦ )"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="(´(ｪ)｀)"
+            android:keyOutputText="(´(ｪ)｀)"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="(・(ｪ)・)"
+            android:keyOutputText="(・(ｪ)・)"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="ʕ º ᴥ ºʔ"
+            android:keyOutputText="ʕ º ᴥ ºʔ"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="ʕ·ᴥ·ʔ"
+            android:keyOutputText="ʕ·ᴥ·ʔ"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="ʕ ꈍᴥꈍʔ"
+            android:keyOutputText="ʕ ꈍᴥꈍʔ"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="ʕ´•ᴥ•`ʔ"
+            android:keyOutputText="ʕ´•ᴥ•`ʔ"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="(✪㉨✪)"
+            android:keyOutputText="(✪㉨✪)"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="(◕ᴥ◕)"
+            android:keyOutputText="(◕ᴥ◕)"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="(ᵔᴥᵔ)"
+            android:keyOutputText="(ᵔᴥᵔ)"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="Ꮚ˘ ꈊ ˘ Ꮚ"
+            android:keyOutputText="Ꮚ˘ ꈊ ˘ Ꮚ"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="(´・(oo)・｀)"
+            android:keyOutputText="(´・(oo)・｀)"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="&lt;。)#)))≦"
+            android:keyOutputText="&lt;。)#)))≦"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="…ᘛ⁐̤ᕐᐷ"
+            android:keyOutputText="…ᘛ⁐̤ᕐᐷ"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="くコ:彡"
+            android:keyOutputText="くコ:彡"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="-ᄒᴥᄒ-"
+            android:keyOutputText="-ᄒᴥᄒ-"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="/╲/\╭(•‿•)╮/\╱\"
+            android:keyOutputText="/╲/\╭(•‿•)╮/\╱\"
+            ask:tags="animals,kanimals"/>
+        <Key
+            android:keyLabel="Ƹ̵̡Ӝ̵̨̄Ʒ"
+            android:keyOutputText="Ƹ̵̡Ӝ̵̨̄Ʒ"
+            ask:tags="animals,kanimals"/>
+    </Row>
+</Keyboard>

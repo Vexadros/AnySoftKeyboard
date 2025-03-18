@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Keyboard
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:ask="http://schemas.android.com/apk/res-auto"
+        android:keyWidth="15%p"
+        android:keyHeight="@integer/key_normal_height">
+    <Row android:rowEdgeFlags="top">
+        <!--Shrug-->
+        <Key
+            android:keyLabel="┐(´∀｀)┌"
+            android:keyOutputText="┐(´∀｀)┌"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="¯\_(ツ)_/¯"
+            android:keyOutputText="¯\_(ツ)_/¯"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="¯\_༼ •́ ͜ʖ •̀ ༽_/¯"
+            android:keyOutputText="¯\_༼ •́ ͜ʖ •̀ ༽_/¯"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="¯\_( ͡° ͜ʖ ͡°)_/¯"
+            android:keyOutputText="¯\_( ͡° ͜ʖ ͡°)_/¯"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="¯\(°_o)/¯"
+            android:keyOutputText="¯\(°_o)/¯"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="┐( ∵ )┌"
+            android:keyOutputText="┐( ∵ )┌"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="¯\_༼ᴼل͜ᴼ༽_/¯"
+            android:keyOutputText="¯\_༼ᴼل͜ᴼ༽_/¯"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="╮(. ❛ ᴗ ❛.)╭"
+            android:keyOutputText="╮(. ❛ ᴗ ❛.)╭"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="乁༼☯‿☯✿༽ㄏ"
+            android:keyOutputText="乁༼☯‿☯✿༽ㄏ"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="¯\(◉‿◉)/¯"
+            android:keyOutputText="¯\(◉‿◉)/¯"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="¯\_ʘ‿ʘ_/¯"
+            android:keyOutputText="¯\_ʘ‿ʘ_/¯"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="¯\_༼ ಥ ‿ ಥ ༽_/¯"
+            android:keyOutputText="¯\_༼ ಥ ‿ ಥ ༽_/¯"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="╮(＾▽＾)╭"
+            android:keyOutputText="╮(＾▽＾)╭"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="乁[ ◕ ᴥ ◕ ]ㄏ"
+            android:keyOutputText="乁[ ◕ ᴥ ◕ ]ㄏ"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="乁[ᓀ˵▾˵ᓂ]ㄏ"
+            android:keyOutputText="乁[ᓀ˵▾˵ᓂ]ㄏ"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="┐( ˘_˘)┌"
+            android:keyOutputText="┐( ˘_˘)┌"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="┐(´ー｀)┌"
+            android:keyOutputText="┐(´ー｀)┌"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="╮(╯_╰)╭"
+            android:keyOutputText="╮(╯_╰)╭"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="¯\_(⊙_ʖ⊙)_/¯"
+            android:keyOutputText="¯\_(⊙_ʖ⊙)_/¯"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="乁( ⁰͡ Ĺ̯ ⁰͡ ) ㄏ"
+            android:keyOutputText="乁( ⁰͡ Ĺ̯ ⁰͡ ) ㄏ"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="¯\_( ͠° ͟ʖ °͠ )_/¯"
+            android:keyOutputText="¯\_( ͠° ͟ʖ °͠ )_/¯"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="乁( •_• )ㄏ"
+            android:keyOutputText="乁( •_• )ㄏ"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="乁| ･ 〰 ･ |ㄏ"
+            android:keyOutputText="乁| ･ 〰 ･ |ㄏ"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="┐(‘～`;)┌"
+            android:keyOutputText="┐(‘～`;)┌"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="┐(￣ヘ￣)┌"
+            android:keyOutputText="┐(￣ヘ￣)┌"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="┐(´д`)┌"
+            android:keyOutputText="┐(´д`)┌"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="乁( . ര ʖ̯ ര . )ㄏ"
+            android:keyOutputText="乁( . ര ʖ̯ ര . )ㄏ"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="乁 ˘ o ˘ ㄏ"
+            android:keyOutputText="乁 ˘ o ˘ ㄏ"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="乁ʕ •̀ ۝ •́ ʔㄏ"
+            android:keyOutputText="乁ʕ •̀ ۝ •́ ʔㄏ"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="¯\_〳 •̀ o •́ 〵_/¯"
+            android:keyOutputText="¯\_〳 •̀ o •́ 〵_/¯"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="ㄟ( ▔, ▔ )ㄏ"
+            android:keyOutputText="ㄟ( ▔, ▔ )ㄏ"
+            ask:tags="shrug,kshrug"/>
+        <Key
+            android:keyLabel="乁║ ˙ 益 ˙ ║ㄏ"
+            android:keyOutputText="乁║ ˙ 益 ˙ ║ㄏ"
+            ask:tags="shrug,kshrug"/>
+    </Row>
+</Keyboard>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Keyboard
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:ask="http://schemas.android.com/apk/res-auto"
+        android:keyWidth="15%p"
+        android:keyHeight="@integer/key_normal_height">
+    <Row android:rowEdgeFlags="top">
+        <!--Flex-->
+        <Key
+            android:keyLabel="ᕙ(⇀‸↼‶)ᕗ"
+            android:keyOutputText="ᕙ(⇀‸↼‶)ᕗ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕙ(＠°▽°＠)ᕗ"
+            android:keyOutputText="ᕙ(＠°▽°＠)ᕗ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕙ(  • ‿ •  )ᕗ"
+            android:keyOutputText="ᕙ(  • ‿ •  )ᕗ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕙ(•̀‸•́‶)ᕗ"
+            android:keyOutputText="ᕙ(•̀‸•́‶)ᕗ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕙ (° ~͜ʖ~ °) ᕗ"
+            android:keyOutputText="ᕙ (° ~͜ʖ~ °) ᕗ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕙ( ͡◉ ͜ ʖ ͡◉)ᕗ"
+            android:keyOutputText="ᕙ( ͡◉ ͜ ʖ ͡◉)ᕗ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="୧(＾ 〰 ＾)୨"
+            android:keyOutputText="୧(＾ 〰 ＾)୨"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕙ( ¤ 〰 ¤ )ᕗ"
+            android:keyOutputText="ᕙ( ¤ 〰 ¤ )ᕗ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕙ( ~ . ~ )ᕗ"
+            android:keyOutputText="ᕙ( ~ . ~ )ᕗ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕙ( : ˘ ∧ ˘ : )ᕗ"
+            android:keyOutputText="ᕙ( : ˘ ∧ ˘ : )ᕗ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕙ[･۝･]ᕗ"
+            android:keyOutputText="ᕙ[･۝･]ᕗ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕦ( ⊡ 益 ⊡ )ᕤ"
+            android:keyOutputText="ᕦ( ⊡ 益 ⊡ )ᕤ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕙ(ಠ ਊ ಠ)ᕗ"
+            android:keyOutputText="ᕙ(ಠ ਊ ಠ)ᕗ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕙ(☉ਊ☉)ᕗ"
+            android:keyOutputText="ᕙ(☉ਊ☉)ᕗ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="୧( ಠ Д ಠ )୨"
+            android:keyOutputText="୧( ಠ Д ಠ )୨"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕦ⊙෴⊙ᕤ"
+            android:keyOutputText="ᕦ⊙෴⊙ᕤ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕦ(ò_óˇ)ᕤ"
+            android:keyOutputText="ᕦ(ò_óˇ)ᕤ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕦ(ಠ_ಠ)ᕤ"
+            android:keyOutputText="ᕦ(ಠ_ಠ)ᕤ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕦ[ ◑ □ ◑ ]ᕤ"
+            android:keyOutputText="ᕦ[ ◑ □ ◑ ]ᕤ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕦ༼ ~ •́ ₒ •̀ ~ ༽ᕤ"
+            android:keyOutputText="ᕦ༼ ~ •́ ₒ •̀ ~ ༽ᕤ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="୧( ˵ ° ~ ° ˵ )୨"
+            android:keyOutputText="୧( ˵ ° ~ ° ˵ )୨"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="୧| ͡ᵔ ﹏ ͡ᵔ |୨"
+            android:keyOutputText="୧| ͡ᵔ ﹏ ͡ᵔ |୨"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕙ (° ~ ° ~)"
+            android:keyOutputText="ᕙ (° ~ ° ~)"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="( ͝° ͜ʖ͡°)ᕤ"
+            android:keyOutputText="( ͝° ͜ʖ͡°)ᕤ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕙ( ͡° ͜ʖ ͡°)ᕗ"
+            android:keyOutputText="ᕙ( ͡° ͜ʖ ͡°)ᕗ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕙ(͡°‿ ͡°)ᕗ"
+            android:keyOutputText="ᕙ(͡°‿ ͡°)ᕗ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕦ༼ຈل͜ຈ༽ᕤ"
+            android:keyOutputText="ᕦ༼ຈل͜ຈ༽ᕤ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="༼ᕗຈل͜ຈ༽ᕗ"
+            android:keyOutputText="༼ᕗຈل͜ຈ༽ᕗ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕙ༼◕ ᴥ ◕༽ᕗ"
+            android:keyOutputText="ᕙ༼◕ ᴥ ◕༽ᕗ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕦʕ •ᴥ•ʔᕤ"
+            android:keyOutputText="ᕦʕ •ᴥ•ʔᕤ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕦᶘ ᵒ㉨ᵒᶅᕤ"
+            android:keyOutputText="ᕦᶘ ᵒ㉨ᵒᶅᕤ"
+            ask:tags="flex,kflex"/>
+        <Key
+            android:keyLabel="ᕦ༼✩ل͜✩༽ᕤ"
+            android:keyOutputText="ᕦ༼✩ل͜✩༽ᕤ"
+            ask:tags="flex,kflex"/>
+    </Row>
+</Keyboard>

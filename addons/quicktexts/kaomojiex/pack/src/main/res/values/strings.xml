@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="kaokey_name">Random</string>
-    <string name="kaokey_label">(. ❛ ᴗ ❛.)</string>
-    <string name="kaokey_default_output">(. ❛ ᴗ ❛.)</string>
+    <string name="kaomojiexkey1_name">Happy</string>
+    <string name="kaomojiexkey1_label">(. ❛ ᴗ ❛.)</string>
+    <string name="kaomojiexkey1_default_output">(. ❛ ᴗ ❛.)</string>
+    
+    <string name="kaomojiexkey2_name">Surprise</string>
+    <string name="kaomojiexkey2_label">(°Д°")</string>
+    <string name="kaomojiexkey2_default_output">(°Д°")</string>
+
+    <string name="kaomojiexkey3_name">Nervous</string>
+    <string name="kaomojiexkey3_label">(๑•﹏•)</string>
+    <string name="kaomojiexkey3_default_output">(๑•﹏•)</string>
+
+    <string name="kaomojiexkey4_name">Cry</string>
+    <string name="kaomojiexkey4_label">(｡•́︿•̀｡)</string>
+    <string name="kaomojiexkey4_default_output">(｡•́︿•̀｡)</string>
+
+    <string name="kaomojiexkey5_name">Hug</string>
+    <string name="kaomojiexkey5_label">⊂(･ω･*⊂)</string>
+    <string name="kaomojiexkey5_default_output">⊂(･ω･*⊂)</string>
+
+    <string name="kaomojiexkey6_name">Love</string>
+    <string name="kaomojiexkey6_label">(｡･ω･｡)ﾉ♡</string>
+    <string name="kaomojiexkey6_default_output">(｡･ω･｡)ﾉ♡</string>
+
+    <string name="kaomojiexkey7_name">Stare</string>
+    <string name="kaomojiexkey7_label">ಠ_ಠ</string>
+    <string name="kaomojiexkey7_default_output">ಠ_ಠ</string>
+
+    <string name="kaomojiexkey8_name">Shrug</string>
+    <string name="kaomojiexkey8_label">┐(´∀｀)┌</string>
+    <string name="kaomojiexkey8_default_output">┐(´∀｀)┌</string>
+
+    <string name="kaomojiexkey9_name">Dance</string>
+    <string name="kaomojiexkey9_label">(~‾▿‾)~</string>
+    <string name="kaomojiexkey9_default_output">(~‾▿‾)~</string>
+
+    <string name="kaomojiexkey10_name">Flex</string>
+    <string name="kaomojiexkey10_label">ᕙ(⇀‸↼‶)ᕗ</string>
+    <string name="kaomojiexkey10_default_output">ᕙ(⇀‸↼‶)ᕗ</string>
+
+    <string name="kaomojiexkey11_name">Point</string>
+    <string name="kaomojiexkey11_label">(；゜○゜)ア</string>
+    <string name="kaomojiexkey11_default_output">(；゜○゜)ア</string>
+
+    <string name="kaomojiexkey12_name">Table Flip</string>
+    <string name="kaomojiexkey12_label">(╯°□°)╯︵┻┻</string>
+    <string name="kaomojiexkey12_default_output">(╯°□°)╯︵┻┻</string>
+
+    <string name="kaomojiexkey13_name">Animals</string>
+    <string name="kaomojiexkey13_label">ᓚᘏᗢ</string>
+    <string name="kaomojiexkey13_default_output">ᓚᘏᗢ</string>
 </resources>

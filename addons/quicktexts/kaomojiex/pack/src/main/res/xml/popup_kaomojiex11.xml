@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Keyboard
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:ask="http://schemas.android.com/apk/res-auto"
+        android:keyWidth="15%p"
+        android:keyHeight="@integer/key_normal_height">
+    <Row android:rowEdgeFlags="top">
+        <!--Point-->
+        <Key
+            android:keyLabel="(；゜○゜)ア"
+            android:keyOutputText="(；゜○゜)ア"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="┗(•ˇ_ˇ•)―→"
+            android:keyOutputText="┗(•ˇ_ˇ•)―→"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="(☞ ಠ_ಠ)☞"
+            android:keyOutputText="(☞ ಠ_ಠ)☞"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="☞￣ᴥ￣☞"
+            android:keyOutputText="☞￣ᴥ￣☞"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="→(° ۝ °)┗"
+            android:keyOutputText="→(° ۝ °)┗"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="→_→"
+            android:keyOutputText="→_→"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="←_←"
+            android:keyOutputText="←_←"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="⟵(o_O)"
+            android:keyOutputText="⟵(o_O)"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="⟵(๑¯◡¯๑)"
+            android:keyOutputText="⟵(๑¯◡¯๑)"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="ԅ[ •́ ﹏ •̀ ]ง"
+            android:keyOutputText="ԅ[ •́ ﹏ •̀ ]ง"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="☜ (↼_↼)"
+            android:keyOutputText="☜ (↼_↼)"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="｡.ﾟ+ ⟵(｡･ω･)"
+            android:keyOutputText="｡.ﾟ+ ⟵(｡･ω･)"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="←(&gt;▽&lt;)ﾉ"
+            android:keyOutputText="←(&gt;▽&lt;)ﾉ"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="←(*꒪ヮ꒪*)"
+            android:keyOutputText="←(*꒪ヮ꒪*)"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="(☞^o^) ☞"
+            android:keyOutputText="(☞^o^) ☞"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="(╭☞•́⍛•̀)╭☞"
+            android:keyOutputText="(╭☞•́⍛•̀)╭☞"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="〈(•ˇ‿ˇ•)-→"
+            android:keyOutputText="〈(•ˇ‿ˇ•)-→"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="(?・・)σ"
+            android:keyOutputText="(?・・)σ"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="(☉｡☉)!→"
+            android:keyOutputText="(☉｡☉)!→"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="(ﾉﾟ0ﾟ)ﾉ→"
+            android:keyOutputText="(ﾉﾟ0ﾟ)ﾉ→"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="(´⊙ω⊙`)→"
+            android:keyOutputText="(´⊙ω⊙`)→"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="(☞ﾟヮﾟ)☞"
+            android:keyOutputText="(☞ﾟヮﾟ)☞"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="(☞ ͡° ͜ʖ ͡°)☞"
+            android:keyOutputText="(☞ ͡° ͜ʖ ͡°)☞"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="´◔‿ゝ◔`)━☞"
+            android:keyOutputText="´◔‿ゝ◔`)━☞"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="( ՞ਊ ՞)→"
+            android:keyOutputText="( ՞ਊ ՞)→"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="(　･ω･)☞"
+            android:keyOutputText="(　･ω･)☞"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="(*❛‿❛)→"
+            android:keyOutputText="(*❛‿❛)→"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="╰( ･ ᗜ ･ )➝"
+            android:keyOutputText="╰( ･ ᗜ ･ )➝"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="(✧Д✧)→"
+            android:keyOutputText="(✧Д✧)→"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="(｡◕‿◕｡)➜"
+            android:keyOutputText="(｡◕‿◕｡)➜"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="&lt;(￣︶￣)↗"
+            android:keyOutputText="&lt;(￣︶￣)↗"
+            ask:tags="point,kpoint"/>
+        <Key
+            android:keyLabel="*･゜ﾟ(^O^)↝"
+            android:keyOutputText="*･゜ﾟ(^O^)↝"
+            ask:tags="point,kpoint"/>
+    </Row>
+</Keyboard>
