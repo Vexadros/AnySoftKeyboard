@@ -3,7 +3,7 @@
     <QuickTextKey
         id="67d24ad1-1a44-800d-9616-dc6f2b2cb280"
         nameResId="@string/kaomojiexkey1_name"
-        popupKeyboard="@xml/popup_kaomojiex1"
+        popupKeyboard="@xml/popup_kaomojiex01"
         keyLabel="@string/kaomojiexkey1_label"
         keyOutputText="@string/kaomojiexkey1_default_output"
         description="KaomojiEx"
@@ -11,7 +11,7 @@
     <QuickTextKey
         id="2ae3e670-fb9e-4d18-b730-af84827a5b71"
         nameResId="@string/kaomojiexkey2_name"
-        popupKeyboard="@xml/popup_kaomojiex2"
+        popupKeyboard="@xml/popup_kaomojiex02"
         keyLabel="@string/kaomojiexkey2_label"
         keyOutputText="@string/kaomojiexkey2_default_output"
         description="KaomojiEx"
@@ -19,7 +19,7 @@
     <QuickTextKey
         id="29898897-7860-4edd-984b-4508287ff9c5"
         nameResId="@string/kaomojiexkey3_name"
-        popupKeyboard="@xml/popup_kaomojiex3"
+        popupKeyboard="@xml/popup_kaomojiex03"
         keyLabel="@string/kaomojiexkey3_label"
         keyOutputText="@string/kaomojiexkey3_default_output"
         description="KaomojiEx"
@@ -27,7 +27,7 @@
     <QuickTextKey
         id="e4093d10-27c2-41c3-a327-87de08c6fc5f"
         nameResId="@string/kaomojiexkey4_name"
-        popupKeyboard="@xml/popup_kaomojiex4"
+        popupKeyboard="@xml/popup_kaomojiex04"
         keyLabel="@string/kaomojiexkey4_label"
         keyOutputText="@string/kaomojiexkey4_default_output"
         description="KaomojiEx"
@@ -35,7 +35,7 @@
     <QuickTextKey
         id="3107e43e-43bf-4130-a636-2791c4cef2fc"
         nameResId="@string/kaomojiexkey5_name"
-        popupKeyboard="@xml/popup_kaomojiex5"
+        popupKeyboard="@xml/popup_kaomojiex05"
         keyLabel="@string/kaomojiexkey5_label"
         keyOutputText="@string/kaomojiexkey5_default_output"
         description="KaomojiEx"
@@ -43,7 +43,7 @@
     <QuickTextKey
         id="29c691ed-161d-414a-aae5-c2dc336c83e5"
         nameResId="@string/kaomojiexkey6_name"
-        popupKeyboard="@xml/popup_kaomojiex6"
+        popupKeyboard="@xml/popup_kaomojiex06"
         keyLabel="@string/kaomojiexkey6_label"
         keyOutputText="@string/kaomojiexkey6_default_output"
         description="KaomojiEx"
@@ -51,7 +51,7 @@
     <QuickTextKey
         id="94e3626a-9134-4cb0-8742-ca08e555cd69"
         nameResId="@string/kaomojiexkey7_name"
-        popupKeyboard="@xml/popup_kaomojiex7"
+        popupKeyboard="@xml/popup_kaomojiex07"
         keyLabel="@string/kaomojiexkey7_label"
         keyOutputText="@string/kaomojiexkey7_default_output"
         description="KaomojiEx"
@@ -59,7 +59,7 @@
     <QuickTextKey
         id="276f6865-9857-4aec-831d-92f82b9bfd1f"
         nameResId="@string/kaomojiexkey8_name"
-        popupKeyboard="@xml/popup_kaomojiex8"
+        popupKeyboard="@xml/popup_kaomojiex08"
         keyLabel="@string/kaomojiexkey8_label"
         keyOutputText="@string/kaomojiexkey8_default_output"
         description="KaomojiEx"
@@ -67,7 +67,7 @@
     <QuickTextKey
         id="96e83373-9fc4-4423-b8ba-4158c3aa4141"
         nameResId="@string/kaomojiexkey9_name"
-        popupKeyboard="@xml/popup_kaomojiex9"
+        popupKeyboard="@xml/popup_kaomojiex09"
         keyLabel="@string/kaomojiexkey9_label"
         keyOutputText="@string/kaomojiexkey9_default_output"
         description="KaomojiEx"

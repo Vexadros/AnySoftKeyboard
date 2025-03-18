@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Keyboard
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:ask="http://schemas.android.com/apk/res-auto"
+        android:keyWidth="15%p"
+        android:keyHeight="@integer/key_normal_height">
+    <Row android:rowEdgeFlags="top">
+        <!--Hug-->
+        <Key
+            android:keyLabel="⊂(･ω･*⊂)"
+            android:keyOutputText="⊂(･ω･*⊂)"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="⊂((・▽・))⊃"
+            android:keyOutputText="⊂((・▽・))⊃"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="(づ｡◕‿‿◕｡)づ"
+            android:keyOutputText="(づ｡◕‿‿◕｡)づ"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="༼ つ ◕‿◕ ༽つ"
+            android:keyOutputText="༼ つ ◕‿◕ ༽つ"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="(づ￣ ³￣)づ"
+            android:keyOutputText="(づ￣ ³￣)づ"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="(⊃｡•́‿•̀｡)⊃"
+            android:keyOutputText="(⊃｡•́‿•̀｡)⊃"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="ʕっ•ᴥ•ʔっ"
+            android:keyOutputText="ʕっ•ᴥ•ʔっ"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="(o´･_･)っ"
+            android:keyOutputText="(o´･_･)っ"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="(⊃ • ʖ̫ • )⊃"
+            android:keyOutputText="(⊃ • ʖ̫ • )⊃"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="(つ≧▽≦)つ"
+            android:keyOutputText="(つ≧▽≦)つ"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="(つ✧ω✧)つ"
+            android:keyOutputText="(つ✧ω✧)つ"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="(っ.❛ ᴗ ❛.)っ"
+            android:keyOutputText="(っ.❛ ᴗ ❛.)っ"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="～(つˆДˆ)つ｡☆"
+            android:keyOutputText="～(つˆДˆ)つ｡☆"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="ლ(´ ❥ `ლ)"
+            android:keyOutputText="ლ(´ ❥ `ლ)"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="⊂(•‿•⊂ )*.✧"
+            android:keyOutputText="⊂(•‿•⊂ )*.✧"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="⊂(´･◡･⊂ )∘˚˳°"
+            android:keyOutputText="⊂(´･◡･⊂ )∘˚˳°"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="⊂(・﹏・⊂)"
+            android:keyOutputText="⊂(・﹏・⊂)"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="⊂(・▽・⊂)"
+            android:keyOutputText="⊂(・▽・⊂)"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="⊂(◉‿◉)つ"
+            android:keyOutputText="⊂(◉‿◉)つ"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="o((*^▽^*))o"
+            android:keyOutputText="o((*^▽^*))o"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="╰(*´︶`*)╯"
+            android:keyOutputText="╰(*´︶`*)╯"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="╰(＾3＾)╯"
+            android:keyOutputText="╰(＾3＾)╯"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="╰(⸝⸝⸝´꒳`⸝⸝⸝)╯"
+            android:keyOutputText="╰(⸝⸝⸝´꒳`⸝⸝⸝)╯"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="♡(˃͈ દ ˂͈ ༶ )"
+            android:keyOutputText="♡(˃͈ દ ˂͈ ༶ )"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="ヾ(˙❥˙)ﾉ"
+            android:keyOutputText="ヾ(˙❥˙)ﾉ"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="＼(^o^)／"
+            android:keyOutputText="＼(^o^)／"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="ლ(・﹏・ლ)"
+            android:keyOutputText="ლ(・﹏・ლ)"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="ლ(◕ω◕ლ)"
+            android:keyOutputText="ლ(◕ω◕ლ)"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="(/･ω･(-ω-)"
+            android:keyOutputText="(/･ω･(-ω-)"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="(･ω･)つ⊂(･ω･)"
+            android:keyOutputText="(･ω･)つ⊂(･ω･)"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="( T_T)＼(^-^ )"
+            android:keyOutputText="( T_T)＼(^-^ )"
+            ask:tags="hug,khug"/>
+        <Key
+            android:keyLabel="(･–･) \(･◡･)/"
+            android:keyOutputText="(･–･) \(･◡･)/"
+            ask:tags="hug,khug"/>
+    </Row>
+</Keyboard>
